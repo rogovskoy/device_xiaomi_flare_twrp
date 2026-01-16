@@ -5,6 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_flare-user
-add_lunch_combo twrp_flare-userdebug
-add_lunch_combo twrp_flare-eng
+add_lunch_combo omni_flare-eng
