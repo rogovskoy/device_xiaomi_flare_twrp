@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_flare-eng
+echo "vendorsetup script initialized correctly"
